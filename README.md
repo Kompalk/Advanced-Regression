@@ -16,10 +16,10 @@ How well those variables describe the price of a house.
 Also, determine the optimal value of lambda for ridge and lasso regression.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+- There were highly missing values, so null value treatment is required
+- There were outlier treatment and categorical data analysis also performed
+- From gridSearch, the for lasso we got optimum lambda to be 0.0001
+- From gridSearch, the for risge we got optimum lambda to be 4
 
 ## Technologies Used
 - numpy - version 1.21.6
